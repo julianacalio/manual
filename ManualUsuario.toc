@@ -1,0 +1,29 @@
+\select@language {portuguese}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}
+\contentsline {chapter}{\numberline {2}Instala\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {chapter}{\numberline {3}Fun\IeC {\c c}\IeC {\~o}es}{5}
+\contentsline {section}{\numberline {3.1}Login}{5}
+\contentsline {section}{\numberline {3.2}Cadastrar, Remover e Atualizar}{5}
+\contentsline {section}{\numberline {3.3}Reservas}{8}
+\contentsline {subsection}{\numberline {3.3.1}Criar Reserva}{8}
+\contentsline {subsection}{\numberline {3.3.2}Editar Reserva}{9}
+\contentsline {subsection}{\numberline {3.3.3}Remover Reserva}{9}
+\contentsline {subsection}{\numberline {3.3.4}Criar v\IeC {\'a}rias reservas}{9}
+\contentsline {section}{\numberline {3.4}Empr\IeC {\'e}stimo}{9}
+\contentsline {subsection}{\numberline {3.4.1}Criar Empr\IeC {\'e}stimo}{10}
+\contentsline {subsection}{\numberline {3.4.2}Finalizar Empr\IeC {\'e}stimo}{10}
+\contentsline {section}{\numberline {3.5}Email}{10}
+\contentsline {section}{\numberline {3.6}Mostrar todas as reservas}{11}
+\contentsline {section}{\numberline {3.7}Mostrar todos os equipamentos}{11}
+\contentsline {section}{\numberline {3.8}Usu\IeC {\'a}rios}{11}
+\contentsline {subsection}{\numberline {3.8.1}Cadastrar um Usu\IeC {\'a}rio}{11}
+\contentsline {subsection}{\numberline {3.8.2}Editar um usu\IeC {\'a}rio}{12}
+\contentsline {subsection}{\numberline {3.8.3}Deletar um usu\IeC {\'a}rio}{12}
+\contentsline {section}{\numberline {3.9}Logout}{13}
+\contentsline {chapter}{\numberline {4}Valida\IeC {\c c}\IeC {\~o}es}{14}
+\contentsline {section}{\numberline {4.1}Tela congelada}{14}
+\contentsline {section}{\numberline {4.2}Reserva feita no mesmo hor\IeC {\'a}rio}{14}
+\contentsline {section}{\numberline {4.3}N\IeC {\~a}o selecionar uma sala ou equipamento para reservar e clicar na data}{14}
+\contentsline {section}{\numberline {4.4}Selecionar uma data que j\IeC {\'a} expirou}{15}
+\contentsline {section}{\numberline {4.5}Erro ao criar um novo docente ou t\IeC {\'e}cnico administrativo}{15}
+\contentsline {chapter}{\numberline {5}Contato}{16}
